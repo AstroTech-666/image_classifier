@@ -26,24 +26,32 @@ The classifier uses a **pre-trained VGG16 model** from PyTorch's torchvision lib
 - **Matplotlib** (for visualizing results)
 - **Torchvision** (for pre-trained models)
 
-### 🚀 **How to Run the Project**
+Here’s an updated version including the training step:  
 
-1. Clone the repository to your local machine:
+### 🚀 **How to Run the Project**  
+
+1. Clone the repository to your local machine:  
    ```bash
    git clone https://github.com/AstroTech-666/image_classifier.git
-   ```
-   
-2. Install the required dependencies:
+   ```  
+
+2. Install the required dependencies:  
    ```bash
    pip install -r requirements.txt
-   ```
+   ```  
 
-3. Run the app:
+3. **Train the Model:**  
+   Run one of the following Jupyter notebooks to train the model and generate the `vgg16_bn_checkpoint.pth` file:  
+   - `image_classifier_project.ipynb` (for CPU)  
+   - `image_classifier_project_GPU.ipynb` (for GPU)  
+
+4. Run the app:  
    ```bash
    python app.py
-   ```
+   ```  
+
+5. Open your browser and go to `http://127.0.0.1:5000/` to interact with the web app and classify flower images.  
    
-4. Open your browser and go to `http://127.0.0.1:5000/` to interact with the web app and classify flower images.
 
 ### 📊 **Model Performance**
 
