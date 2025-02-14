@@ -63,9 +63,7 @@ The model performs really well, achieving **over 90% accuracy** on both the vali
 
 ### 📈 **Results**
 
-Here’s an example of the classifier’s performance:
-
-![Test Results](./images/inference_example.png)
+./images/inference_example.png
 
 ### 📥 **Future Improvements**
 - Increase the model's accuracy by fine-tuning the hyperparameters.
