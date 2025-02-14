@@ -30,7 +30,7 @@ The classifier uses a **pre-trained VGG16 model** from PyTorch's torchvision lib
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/CaterinaBi/udacity-image-classifier.git
+   git clone https://github.com/AstroTech-666/image_classifier.git
    ```
    
 2. Install the required dependencies:
