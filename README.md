@@ -26,8 +26,6 @@ The classifier uses a **pre-trained VGG16 model** from PyTorch's torchvision lib
 - **Matplotlib** (for visualizing results)
 - **Torchvision** (for pre-trained models)
 
-Here’s an updated version including the training step:  
-
 ### 🚀 **How to Run the Project**  
 
 1. Clone the repository to your local machine:  
