@@ -63,7 +63,7 @@ The model performs really well, achieving **over 90% accuracy** on both the vali
 
 ### 📈 **Results**
 
-![inference_example.jpg](./images/inference_example.png)
+![inference_example.jpg](./assets/inference_example.png)
 
 ### 📥 **Future Improvements**
 - Increase the model's accuracy by fine-tuning the hyperparameters.
